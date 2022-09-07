@@ -1,0 +1,12 @@
+/Users/Yasser/Documents/Practice/Problems/bin/Debug/net6.0/Problems.deps.json
+/Users/Yasser/Documents/Practice/Problems/bin/Debug/net6.0/Problems.dll
+/Users/Yasser/Documents/Practice/Problems/bin/Debug/net6.0/Problems.pdb
+/Users/Yasser/Documents/Practice/Problems/obj/Debug/net6.0/Problems.csproj.AssemblyReference.cache
+/Users/Yasser/Documents/Practice/Problems/obj/Debug/net6.0/Problems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Yasser/Documents/Practice/Problems/obj/Debug/net6.0/Problems.AssemblyInfoInputs.cache
+/Users/Yasser/Documents/Practice/Problems/obj/Debug/net6.0/Problems.AssemblyInfo.cs
+/Users/Yasser/Documents/Practice/Problems/obj/Debug/net6.0/Problems.csproj.CoreCompileInputs.cache
+/Users/Yasser/Documents/Practice/Problems/obj/Debug/net6.0/Problems.dll
+/Users/Yasser/Documents/Practice/Problems/obj/Debug/net6.0/refint/Problems.dll
+/Users/Yasser/Documents/Practice/Problems/obj/Debug/net6.0/Problems.pdb
+/Users/Yasser/Documents/Practice/Problems/obj/Debug/net6.0/ref/Problems.dll
